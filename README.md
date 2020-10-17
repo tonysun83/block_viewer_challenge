@@ -1,2 +1,10 @@
 # block_viewer_challenge
-substrate chain block information
+Polkadot Blockchain Information
+
+
+## Setup
+$ yarn add @polkadot/api
+
+
+## Run the app
+$ node block.js
